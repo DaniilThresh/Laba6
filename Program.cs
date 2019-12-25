@@ -15,6 +15,10 @@ namespace Laba6
                 {
                     Console.Write("1");
                 }
+            for (i = 0; i < 9; i++)
+            {
+                Console.Write("3");
+            }
         }
     }
 }
