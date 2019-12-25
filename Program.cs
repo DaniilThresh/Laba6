@@ -10,6 +10,11 @@ namespace Laba6
     {
         static void Main(string[] args)
         {
+            var i;
+            for (i = 0; i < 9; i++)
+                {
+                    Console.Write("1");
+                }
         }
     }
 }
